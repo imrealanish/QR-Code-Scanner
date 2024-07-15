@@ -1,0 +1,13 @@
+main{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#reader{
+    width: 600px;
+}
+
+#result{
+    text-align: center;
+    font-size: 1.5rem;
+}
